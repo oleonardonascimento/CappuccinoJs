@@ -28,7 +28,7 @@
   	<a href="https://twitter.com/ottoni_arthur" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 
-<br><br>
+<br>
 
 **Rafaella Ballerini:**
  <div>
